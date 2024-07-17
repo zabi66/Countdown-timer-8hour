@@ -1,0 +1,41 @@
+body{
+  background-color: #927b59;
+}
+p {
+    font-family: badger;
+    text-align: center;
+    font-size: 250px;
+    text-align: center;
+    position: relative;
+    top : 0px;
+    color: white;
+  }
+      button {
+        background-color: #000000;
+        width: 200px;
+        height: 50px;
+        font-size: 25px;
+        color: #ffffff;
+        box-shadow: 2px 2px 2px 1px #059b5f;
+        border: 2px solid #86dec5;
+        /* position: relative;
+        left: 660px;
+        top: 0px;*/
+    } 
+  
+    @media screen and (min-width: 1880px){
+  
+  button {
+          background-color: #000000;
+          width: 200px;
+          height: 50px;
+          font-size: 25px;
+          color: #ffffff;
+        box-shadow: 2px 2px 2px 1px #059b5f;
+        border: 2px solid #86dec5;
+          /* position: relative;
+          left: 850px;
+          top: 50px; */
+      } 
+  
+  }
